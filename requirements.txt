@@ -5,3 +5,4 @@ streamlit
 ipykernel
 python-dotenv
 langchain_groq
+langgraph-checkpoint-sqlite
